@@ -1,1 +1,3 @@
-# Simple Calculator in Windows Forms
+# Calculator in Windows Forms
+
+Simple Basic Calculator in Windows Forms
